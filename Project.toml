@@ -4,6 +4,4 @@ authors = ["Ranjit Patnaik <ranjitpatnaik@giet.edu>"]
 version = "0.1.0"
 
 [deps]
-Random = "9a3f8284-686f-53ae-9bfb-df55a920b6b3"
-SHA = "ea8e919c-243c-51af-8825-aaa63cd721ce"
-Base64 = "2a0f44e3-6c83-55bd-87e4-b1978d98bd5f"
+

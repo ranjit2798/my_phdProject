@@ -1,11 +1,9 @@
 using Random
-include("e:/paper work/Julia_code/Argon2.jl")
 using Argon2
 using SHA
 using Base64
 using Crypto
-import Pkg
-Pkg.add("ArgTools")
+
 
 const VERSION = 1
 const AEAD_KEY_LEN = 32        # AES-256-GCM
